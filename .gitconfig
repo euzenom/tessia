@@ -1,5 +1,0 @@
-[safe]
-	directory = /home/container
-[user]
-	name = SeuNome
-	email = seuemail@example.com
